@@ -1,0 +1,7 @@
+#hero{
+    height: 800px;
+    background-color: cadetblue;
+    background-image: url('images/places/ocean.jpg');
+    background-position: center;
+    background-size: cover;
+}
