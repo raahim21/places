@@ -35,6 +35,9 @@
     color: rgb(255, 251, 0);
 
 }
+#highlights{
+    padding: 24px;
+}
 
 #hero-content h1{
     color: white;
@@ -51,3 +54,35 @@
     font-size: 24px;
 }
 
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 90%;
+    margin: auto;
+}
+.place-image{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul img{
+    height: 200px;
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: 2px 2px 8px rgb(68, 68, 67);
+    object-fit: cover;
+}
+
+#highlights h2{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(59, 65, 64);
+}
+
+
+/* #highlights{
+    width: 100px;
+    background-image: url("images/places/barcelona.jpg");
+    height: 500px;
+} */
