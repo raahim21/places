@@ -36,6 +36,7 @@
 
 }
 #highlights{
+    background: linear-gradient(180deg, rgb(21, 162, 153),  rgb(202, 243, 240));
     padding: 24px;
 }
 
@@ -72,6 +73,7 @@ ul img{
     box-shadow: 2px 2px 8px rgb(68, 68, 67);
     object-fit: cover;
 }
+
 
 #highlights h2{
     text-transform: capitalize;
